@@ -11,6 +11,10 @@ To follow the Crop_PSF_Match notebook, the [Cosmic Evolution Early Release Surve
 Data can be downloaded from the above link.
 
 ## Data Preparation for the cGAN
+You can use the Source Detection and Aperture Photometry notebook to generate the data for the cGAN. This will generate files for each waveband with a *'.fits'* extension containing individual galaxy images. To use the cGAN, the data is loaded from each individual waveband file. An example folder structure is shown below:
+\
+<img width="472" alt="Dataset-layout" src="https://github.com/RubyPC/cGANs_in_astronomy/assets/106536925/99a173b6-2802-4867-bc4d-2755acb77dfb">
+
 
 ## Some Useful Links
 * [JWST User Documentation](https://jwst-docs.stsci.edu/)
