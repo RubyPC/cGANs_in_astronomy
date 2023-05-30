@@ -18,4 +18,5 @@ You can use the Source Detection and Aperture Photometry notebook to generate th
 
 ## Some Useful Links
 * [JWST User Documentation](https://jwst-docs.stsci.edu/)
-* [JWST Science Calibration Pipeline](https://jwst-pipeline.readthedocs.io/en/latest/jwst/introduction.html)
+* [JWST NIRcam Imaging Information](https://jwst-docs.stsci.edu/jwst-near-infrared-camera)
+
