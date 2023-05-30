@@ -20,3 +20,8 @@ You can use the Source Detection and Aperture Photometry notebook to generate th
 * [JWST User Documentation](https://jwst-docs.stsci.edu/)
 * [JWST NIRcam Imaging Information](https://jwst-docs.stsci.edu/jwst-near-infrared-camera)
 
+### References
+* [CEERS](https://ceers.github.io)
+* [Image-to-Image Translation with conditionl Adversarial Networks](https://doi.org/10.48550/arXiv.1611.07004)
+* [Generative Adversarial Networks](https://doi.org/10.48550/arXiv.1406.2661)
+
