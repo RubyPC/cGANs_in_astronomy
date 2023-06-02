@@ -1,5 +1,5 @@
 # The Application of cGANs in Astronomy
-This repository contains materials covered by *The Application of cGANs* talk in the Deep and Shallow Learning Session of the National Astronomy Meeting from 3rd-7th July 2023. 
+This repository contains materials covered in *The Application of cGANs* talk in the Deep and Shallow Learning Session of the National Astronomy Meeting from 3rd-7th July 2023. 
 \
 Contained, in this repository, is a walk through of how to create galaxy cutouts using the JWST CEERS NIRcam imaging data, specifically the public data release 0.5. However, this method of creating cutouts can be used on other imaging data provided raw data and a matching data kernel.
 \
